@@ -57,6 +57,4 @@ The interactive dashboard provides a high-level summary of:
 
 ---
 
-## Author
-**Amudha. N** Batch: TN-DA-ANB11  
-Project Domain: Sales and E-Commerce
+
